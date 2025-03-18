@@ -1,4 +1,4 @@
-# Bioinformatics III Application Challenge
+# Bioinformatics III Application Challenge (Week 6)
 
 ## Instructions
 In this Application Challenge, we are going to hop in the Bioinformatics Time Machine and head back to 1996.
@@ -161,7 +161,7 @@ Run Clustal Omega [(http://www.ebi.ac.uk/Tools/msa/clustalo/)](http://www.ebi.ac
 
 * **Upload a snapshot of the phylogenetic tree and the percent identity matrix generated for this alignment as an image file.**
 
-[Percent identity and phylogenetic tree]()
+![Percent identity and phylogenetic tree](https://github.com/harishmuh/Bioinformatics-III_Comparing-genes-proteins-and-genomes/blob/main/exam/Percent%20identity%20matrix_Phylogenetic%20tree.PNG?raw=true)
 
 
 
@@ -193,7 +193,9 @@ Can you locate the positions in this window that are responsible for determining
 
   **Answer**:
 
-  Within this 320–332 window, you can distinguish two parts:
+  ![Phea sequence weblogo](https://github.com/harishmuh/Bioinformatics-III_Comparing-genes-proteins-and-genomes/blob/main/exam/Phenylalanine_sequence_weblogo_generated.png?raw=true)
+  
+  Within this 320–332 window, we can distinguish two parts:
 
   * A Conserved Core (GPTE):
   In nearly every sequence the central “GPTE” motif is maintained. This conservation suggests that these residues are important for the overall structure of the A-domain rather than for determining substrate specificity.
